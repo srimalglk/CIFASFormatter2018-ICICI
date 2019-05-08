@@ -991,6 +991,7 @@ namespace CIFASFormatter3
         private void GeneratePostcodeMap()
         {
             //string[] raw_data = System.IO.File.ReadAllLines("C:\\temp\\ICICI-04-08-2016\\uk_postcode_05_edited.csv");
+            //File Missing
             string[] raw_data = System.IO.File.ReadAllLines("uk_postcode_05_edited.csv");
             //string[] raw_data = System.IO.File.ReadAllLines("C:\\temp\\AddressTest.csv");
             string[] data_col = null;
